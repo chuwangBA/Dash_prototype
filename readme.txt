@@ -6,4 +6,4 @@ The link is here https://www.cbc.ca/news/canada/nova-scotia/students-float-creat
 
 The link for prototype demo: https://ferryana.herokuapp.com/
 
-xxxxxx
+This is deployed using Heroku
