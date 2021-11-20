@@ -10,4 +10,4 @@ This is deployed using Heroku
 
 Go Checkout my Projects!
 
-xxxxx
+email: chuw@dal.ca
